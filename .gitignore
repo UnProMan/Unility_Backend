@@ -36,3 +36,4 @@ mvnw
 mvnw.cmd
 
 application-local.yml
+.DS_Store
