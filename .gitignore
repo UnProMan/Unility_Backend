@@ -36,4 +36,6 @@ mvnw
 mvnw.cmd
 
 application-local.yml
+application-auth.yml
+
 .DS_Store

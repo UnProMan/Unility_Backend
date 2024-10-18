@@ -6,6 +6,7 @@ server:
 spring:
     profiles:
         active: local
+        include: auth
 
     jackson:
         property-naming-strategy: LOWER_CAMEL_CASE
